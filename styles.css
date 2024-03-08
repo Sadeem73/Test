@@ -1,0 +1,25 @@
+body {
+
+  background: grey;
+}
+
+h1, h2 {
+  text-align: center;
+}
+.menu {
+  width: 500px;
+  height: 600px;
+  margin-left: 400px;
+  margin-top: 20px;
+  background: white;
+  opacity: 0.9;
+  border-radius: 5px;
+  padding: 30px;
+}
+
+
+
+img{
+  height: 80px;
+  width: 80px;
+}
